@@ -5,4 +5,5 @@ function foo1(a, b, a) {
 
 var bar = function (a, b, a) {
     console.log('value of the second a:', a);
+    console.log("value of the second a:", a);
 };

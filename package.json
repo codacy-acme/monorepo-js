@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "path-to-regexp": "1.8.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-security": "^4.0.0"
   }
 }
